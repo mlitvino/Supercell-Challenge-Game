@@ -45,8 +45,6 @@ This builds the executable in `./build/bin/`.
 
 The exact location of the executable may differ depending on your system and compiler. Example locations are `./build/bin/runner` and `./build/bin/Debug/runner.exe`.
 
-[**SUBMIT**](https://supr.cl/hive2026submit)
-
 ---
 
 ## 🎯 How to Play
@@ -63,9 +61,9 @@ The exact location of the executable may differ depending on your system and com
 
 | Visual | Type | Description |
 |--------|------|-------------|
-| 🔵 Small Circle | **Material** | Collect Iron, Wood, or Spirit for crafting |
-| 🟡 Medium Circle | **Power-Up** | Grab Bombs or Shields for temporary abilities |
-| 🔴 Large Circle | **Portal** | Travel to the Abyss and back |
+|  Small Circle | **Material** | Collect Iron, Wood, or Spirit for crafting |
+|  Medium Circle | **Power-Up** | Grab Bombs or Shields for temporary abilities |
+|  Large Circle | **Portal** | Travel to the Abyss and back |
 
 ### Crafting System
 
