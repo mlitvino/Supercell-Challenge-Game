@@ -4,6 +4,8 @@
 
 > **A fast-paced endless runner game created in 12 hours for the Supercell Challenge**
 
+<img width="470" height="310" alt="runner_screenshot" src="https://github.com/user-attachments/assets/768ec40c-52ec-4f00-a9c8-26870d12c1f0" />
+
 ## 🎮 About The Game
 
 This is an action-packed endless runner where you navigate through dynamic environments filled with challenges and opportunities. Jump across moving platforms, battle enemies, discover portals to mysterious worlds, and collect valuable resources to craft and upgrade your weapons.
